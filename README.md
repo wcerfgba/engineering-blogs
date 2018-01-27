@@ -505,6 +505,7 @@
 * Clean Rinse http://blog.mecheye.net/
 * Cocoa Is My Girlfriend http://www.cimgf.com/
 * Code with style! https://codewithstyle.info/
+* Code Without Rules https://codewithoutrules.com/
 * Codrops https://tympanus.net/codrops/
 
 #### D individuals
