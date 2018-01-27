@@ -708,6 +708,7 @@
 * Thomas Young http://upcoder.com
 * Tikhon Jelvis http://jelv.is/blog/
 * Todd Motto https://toddmotto.com/
+* Troy Hunt https://www.troyhunt.com/
 * T.J. Maher http://adventuresinautomation.blogspot.com/
 
 #### U individuals
