@@ -1,6 +1,5 @@
 lobste.rs
 news.ycombinator.com
-ponyfoo.com
 multicians.org
 fourmilab.ch
 cs.utexas.edu/~EWD
