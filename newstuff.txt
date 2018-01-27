@@ -3,7 +3,6 @@ news.ycombinator.com
 ponyfoo.com
 multicians.org
 fourmilab.ch
-troyhunt.com
 cs.utexas.edu/~EWD
 loup-vaillant.fr
 codewithoutrules.com
