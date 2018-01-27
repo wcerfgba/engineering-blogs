@@ -449,6 +449,9 @@
 
 ### Individuals/Group Contributors
 
+#### \# individuals
+* 250bpm http://250bpm.com/
+
 #### A individuals
 * Aaron Patterson http://tenderlovemaking.com/
 * Abhinaba Basu https://blogs.msdn.com/b/abhinaba/

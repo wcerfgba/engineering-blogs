@@ -350,6 +350,7 @@
       <outline type="rss" text="Zomato" title="Zomato" xmlUrl="https://engineering.zomato.com/feed" htmlUrl="https://engineering.zomato.com/"/>
       <outline type="rss" text="Zulily" title="Zulily" xmlUrl="https://engineering.zulily.com/feed/" htmlUrl="https://engineering.zulily.com/"/>
       <outline type="rss" text="Zumba" title="Zumba" xmlUrl="http://feeds.feedburner.com/zumba_engineering" htmlUrl="http://tech.zumba.com/"/>
+      <outline type="rss" text="250bpm" title="250bpm" xmlUrl="http://250bpm.com/feed/pages/pagename/start/category/blog/t/250bpm-blogs/h/http%3A%2F%2Fwww.250bpm.com%2Fblog" htmlUrl="http://250bpm.com/"/>
       <outline type="rss" text="Aaron Patterson" title="Aaron Patterson" xmlUrl="http://tenderlovemaking.com/atom.xml" htmlUrl="http://tenderlovemaking.com/"/>
       <outline type="rss" text="Abhinaba Basu" title="Abhinaba Basu" xmlUrl="https://blogs.msdn.microsoft.com/abhinaba/feed/" htmlUrl="https://blogs.msdn.com/b/abhinaba/"/>
       <outline type="rss" text="Abu Ashraf Masnun" title="Abu Ashraf Masnun" xmlUrl="http://masnun.com/feed" htmlUrl="http://masnun.com/"/>
