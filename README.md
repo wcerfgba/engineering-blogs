@@ -502,6 +502,7 @@
 * Chris Wellons http://nullprogram.com/
 * Cindy Sridharan https://medium.com/@copyconstruct
 * Clay McLeod http://blog.claymcleod.io/
+* Clean Rinse http://blog.mecheye.net/
 * Cocoa Is My Girlfriend http://www.cimgf.com/
 * Code with style! https://codewithstyle.info/
 * Codrops https://tympanus.net/codrops/
