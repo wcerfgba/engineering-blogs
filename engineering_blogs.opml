@@ -436,11 +436,13 @@
       <outline type="rss" text="Filippo Valsorda" title="Filippo Valsorda" xmlUrl="https://blog.filippo.io/rss/" htmlUrl="https://blog.filippo.io/"/>
       <outline type="rss" text="Freek Van der Herten" title="Freek Van der Herten" xmlUrl="https://murze.be/feed/" htmlUrl="https://murze.be/"/>
       <outline type="rss" text="Gleb Bahmutov" title="Gleb Bahmutov" xmlUrl="https://glebbahmutov.com/blog/atom.xml" htmlUrl="https://glebbahmutov.com/blog/"/>
+      <outline type="rss" text="Go, the unwritten parts" title="Go, the unwritten parts" xmlUrl="https://rakyll.org/index.xml" htmlUrl="https://rakyll.org/"/>
       <outline type="rss" text="Graham King" title="Graham King" xmlUrl="https://www.darkcoding.net/feed/" htmlUrl="https://www.darkcoding.net/"/>
       <outline type="rss" text="Grzegorz Gajos" title="Grzegorz Gajos" xmlUrl="http://ggajos.com/rss.xml" htmlUrl="http://ggajos.com/"/>
       <outline type="rss" text="Guido van Rossum" title="Guido van Rossum" xmlUrl="http://neopythonic.blogspot.com/feeds/posts/default" htmlUrl="http://neopythonic.blogspot.com/"/>
       <outline type="rss" text="Guilherme Rodrigues" title="Guilherme Rodrigues" xmlUrl="https://firstdoit.com/feed" htmlUrl="https://firstdoit.com/"/>
       <outline type="rss" text="High Scalability" title="High Scalability" xmlUrl="http://feeds.feedburner.com/HighScalability" htmlUrl="http://highscalability.com/"/>
+      <outline type="rss" text="Hillel Wayne" title="Hillel Wayne" xmlUrl="https://www.hillelwayne.com/index.xml" htmlUrl="https://hillelwayne.com/"/>
       <outline type="rss" text="Huon Wilson" title="Huon Wilson" xmlUrl="http://huonw.github.io/blog/atom.xml" htmlUrl="http://huonw.github.io/"/>
       <outline type="rss" text="Hypriot" title="Hypriot" xmlUrl="https://blog.hypriot.com/index.xml" htmlUrl="http://blog.hypriot.com/"/>
       <outline type="rss" text="Ian Hummel" title="Ian Hummel" xmlUrl="https://themodernlife.github.io/feed.xml" htmlUrl="https://themodernlife.github.io/"/>

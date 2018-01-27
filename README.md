@@ -560,6 +560,7 @@
 
 #### H individuals
 * High Scalability http://highscalability.com/
+* Hillel Wayne https://hillelwayne.com/
 * Huon Wilson http://huonw.github.io/
 * Hypriot http://blog.hypriot.com/
 
