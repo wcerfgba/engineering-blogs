@@ -500,6 +500,7 @@
 * Chien Tran http://thelazylog.com/
 * Chris Hager https://www.metachris.com/blog/
 * Chris Wellons http://nullprogram.com/
+* Cindy Sridharan https://medium.com/@copyconstruct
 * Clay McLeod http://blog.claymcleod.io/
 * Cocoa Is My Girlfriend http://www.cimgf.com/
 * Code with style! https://codewithstyle.info/
