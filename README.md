@@ -710,6 +710,7 @@
 * Stefan Parker http://codebeforethehorse.tumblr.com/
 * Stephen Colebourne http://blog.joda.org/
 * Steve Yegge https://steve-yegge.blogspot.com/
+* Steven Degutis http://sdegutis.com/
 * Sudhagar http://sudhagar.com/
 * Swizec Teller https://swizec.com/blog/
 
