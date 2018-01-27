@@ -557,10 +557,12 @@
       <outline type="rss" text="Robert C. Martin" title="Robert C. Martin" xmlUrl="http://blog.cleancoder.com/atom.xml" htmlUrl="http://blog.cleancoder.com/"/>
       <outline type="rss" text="Robin Ward" title="Robin Ward" xmlUrl="https://eviltrout.com/feed.xml" htmlUrl="https://eviltrout.com/"/>
       <outline type="rss" text="Robin Wilson" title="Robin Wilson" xmlUrl="http://blog.rtwilson.com/feed/" htmlUrl="http://blog.rtwilson.com/"/>
+      <outline type="rss" text="Ron Jeffries" title="Ron Jeffries" xmlUrl="http://ronjeffries.com/feed.xml" htmlUrl="https://ronjeffries.com/"/>
       <outline type="rss" text="Rudy Huyn" title="Rudy Huyn" xmlUrl="http://www.rudyhuyn.com/blog/feed/" htmlUrl="http://www.rudyhuyn.com/blog/"/>
       <outline type="rss" text="Ruslan Spivak" title="Ruslan Spivak" xmlUrl="https://ruslanspivak.com/feeds/all.atom.xml" htmlUrl="https://ruslanspivak.com/"/>
       <outline type="rss" text="Sakib Sami" title="Sakib Sami" xmlUrl="https://www.sakib.ninja/rss/" htmlUrl="https://www.sakib.ninja"/>
       <outline type="rss" text="Sam Saffron" title="Sam Saffron" xmlUrl="https://samsaffron.com/posts.rss" htmlUrl="https://samsaffron.com/"/>
+      <outline type="rss" text="Sandi Metz" title="Sandi Metz" xmlUrl="https://www.sandimetz.com/blog?format=RSS" htmlUrl="https://www.sandimetz.com/blog/"/>
       <outline type="rss" text="Scott Hanselman" title="Scott Hanselman" xmlUrl="http://feeds.hanselman.com/ScottHanselman" htmlUrl="http://www.hanselman.com/blog/"/>
       <outline type="rss" text="Scott Johnson" title="Scott Johnson" xmlUrl="http://fuzzyblog.io//blog/feed.xml" htmlUrl="http://www.fuzzyblog.io/blog/"/>
       <outline type="rss" text="Simon Reimler" title="Simon Reimler" xmlUrl="https://devdactic.com/feed/" htmlUrl="https://devdactic.com/devblog/"/>

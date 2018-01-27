@@ -701,6 +701,7 @@
 #### S individuals
 * Sakib Sami https://www.sakib.ninja
 * Sam Saffron https://samsaffron.com/
+* Sandi Metz https://www.sandimetz.com/blog/
 * Scott Hanselman http://www.hanselman.com/blog/
 * Scott Johnson http://www.fuzzyblog.io/blog/
 * Simon Reimler https://devdactic.com/devblog/
