@@ -64,6 +64,7 @@
 * BBC https://medium.com/bbc-design-engineering/
 * Benchling https://benchling.engineering/
 * BenefitFocus https://www.benefitfocus.com/blogs/design-engineering
+* Belkadan Software http://belkadan.com/blog/
 * Bigcommerce http://www.bigeng.io/
 * Binary Studio https://binary-studio.com/blog/
 * Bitly http://word.bitly.com/
