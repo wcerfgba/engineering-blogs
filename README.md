@@ -507,6 +507,7 @@
 * Code with style! https://codewithstyle.info/
 * Code Without Rules https://codewithoutrules.com/
 * Codrops https://tympanus.net/codrops/
+* CSS Wizardry https://csswizardry.com/archive/
 
 #### D individuals
 * Daily JS http://dailyjs.com/
