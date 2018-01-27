@@ -488,6 +488,7 @@
 * Blake Erickson https://blog.blakeerickson.com/
 * Blundell's Android Tutorials http://blog.blundellapps.co.uk
 * Brandon Rhodes http://rhodesmill.org/brandon/
+* Brandur Leach https://brandur.org/articles
 * Brendan Eich https://brendaneich.com/
 * Brendan Gregg http://www.brendangregg.com/blog/
 * Brujo Benavides https://medium.com/@elbrujohalcon
